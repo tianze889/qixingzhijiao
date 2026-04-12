@@ -1,5 +1,5 @@
 {
-  "spider": "./qx.jar",
+  "spider": "https://gh-proxy.com/https://github.com/tianze889/qixingzhijiao/raw/refs/heads/main/jar/qx.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "lives": [],
   "sites": [
@@ -9,7 +9,7 @@
       "type": 3,
       "api": "csp_Bili2",
       "searchable": 0,
-      "ext": "./lib/video_data.json"
+      "ext": "https://gh-proxy.com/https://github.com/tianze889/qixingzhijiao/raw/refs/heads/main/lib/video_data.json"
     }
   ],
   "parses": [
