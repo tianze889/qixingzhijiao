@@ -25,9 +25,9 @@
   ],
   "parses": [
          {
-      "name": "解析失败换这个解析失败自己切换",
+      "name": "超级解析",
       "type": 0,
-      "url": "https://huayong.net/999/?v="
+      "url": "https://jx.dmflv.cc/?url="
     },
       {
       "name": "解析失败换这个解析失败自己切换",
