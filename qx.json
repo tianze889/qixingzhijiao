@@ -1,15 +1,26 @@
 {
   "spider": "https://gh-proxy.com/https://github.com/tianze889/qixingzhijiao/raw/refs/heads/main/jar/qx.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "lives": [],
+  "lives": [    
+    {
+      "name": "ogogogg",
+      "type": 0,
+      "url": "https://ogogogg.v.nxog.top/m/tv/?ou=191",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    }
+  ],
   "sites": [
     {
-      "key": "Bili2",
-      "name": "宝宝趣学",
-      "type": 3,
-      "api": "csp_Bili2",
-      "searchable": 0,
-      "ext": "https://gh-proxy.com/https://github.com/tianze889/qixingzhijiao/raw/refs/heads/main/lib/video_data.json"
+      "key":"小灯塔国学",
+      "name":"宝宝趣学",
+      "type":3,"api":"csp_Bili",
+      "searchable":0,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/qixingzhijiao/refs/heads/main/lib/灯塔国学.json"
     }
   ],
   "parses": [
